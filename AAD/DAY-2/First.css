@@ -1,0 +1,38 @@
+.jack1
+{
+    margin-top: 100px;
+margin-left: 200px;
+border-radius: 40px;
+background-image: url("https://t3.ftcdn.net/jpg/01/99/97/56/360_F_199975688_VxiZD8YRnihegauQIT6E3ulI7F2EiBG3.jpg");
+
+width:650px;
+height:400px;       
+}
+.jack2
+{
+    margin-left: 850px;
+    margin-right: 200px;
+    margin-top:  -400px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius: 40px;
+    padding-top: 20px;
+    padding-bottom: 80px;
+    background-color: aliceblue;
+}
+.jack3
+{
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 40px;
+    background-color: aqua;
+
+}
+.jack4
+{
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 40px;
+    background-color: aqua;     
+}

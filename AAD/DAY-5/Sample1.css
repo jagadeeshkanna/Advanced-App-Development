@@ -1,0 +1,17 @@
+.klp890{
+    background-image: url("https://img.freepik.com/free-vector/gradient-emerald-background_23-2150317404.jpg");
+    position: fixed;  
+    width: 1530px;
+    margin-top: -100px;
+    margin-left: -29px;
+  }
+  .jack12
+  {
+    border:2px solid black;
+    widht:300px;
+    margin-left: 510px;
+    margin-bottom: -20px;
+    margin-right: 510px;
+    border-radius: 70px;
+    cursor: pointer;
+  }
