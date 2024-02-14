@@ -1,0 +1,72 @@
+.jack1
+{
+  background-image: url("https://img.freepik.com/premium-vector/events-big-text-online-corporate-party-meeting-friends-colleagues-video-conference_501813-9.jpg");
+    margin-top: 100px;
+margin-left: 250px;
+border-radius: 70px;
+background-repeat: no-repeat;
+background-size: contain;
+height: 600px;
+margin-right: 800px;
+width:650px;
+height:500px;       
+
+
+}
+.jack2
+{
+    margin-left: 850px;
+    margin-right: 250px;
+    margin-top:  -500px;
+    border: 2px solid rgba(0, 0, 0, 0);
+    border-radius:100px;
+    padding-top: 20px;
+    padding-bottom: 125px;
+    background-color: aliceblue;
+    /* height: 500px; */
+    /* margin-left: 0px; */
+   
+    
+}
+.jack2 a{
+    text-decoration: none;
+}
+.jack3
+{
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 40px;
+    background-color: aqua;
+    height: 70px;
+   
+    /* text-align: center */
+
+}
+.jack4
+{
+    border: 2px solid rgba(0, 0, 0, 0);
+    margin-left: 120px;
+    margin-right: 120px;
+    border-radius: 40px;
+    background-color: aqua;   
+    height: 70px;  
+}
+.h3-check{
+    text-align: center;
+    text-decoration: none;
+    color: black;
+    padding-top: 20px;
+}
+.h1-check{
+    text-align: center;
+    padding-top: 60px;
+}
+
+.check-back{
+    background-image: url("https://t4.ftcdn.net/jpg/04/61/47/03/360_F_461470323_6TMQSkCCs9XQoTtyer8VCsFypxwRiDGU.jpg");
+    background-repeat: repeat;
+    background-size: cover;
+    height: 700px;
+    padding-top: 0px;
+}

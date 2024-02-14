@@ -1,0 +1,53 @@
+.admin-home{
+    /* background-image: url("https://drexel.edu/~/media/Drexel/Sites/Core/Images/admissions/visit-tours/virtual-background-downloads/blue-pattern.ashx"); */
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 1000px;
+    /* position: fixed; */
+    margin-top: -100px;
+    
+}
+.admin-h1{
+    color: white;
+    margin-left: 200px;
+    padding-top: 150px;
+}
+.admin-home-but1 a{
+    color: white;
+    text-decoration: none;
+}
+
+.admin-home a{
+    text-decoration: none;
+    /* margin-top: -10px; */
+    width: 400px;
+    height: 40px;
+}
+
+.ad-1 a{
+    text-decoration: none;
+} 
+
+.ah-button-1 a:link{
+    text-decoration: none;
+    color: white;
+}
+.admin-home-but1 a:link {
+    text-decoration: none;
+ }
+ .uy23
+ {
+    width:1500px;
+    margin-top: -5px;
+    width: 1530px;
+    margin-left: -29px;
+    position: fixed;
+    height: 300px;
+ }
+ .jack29
+{
+    background-image: url("https://channellevents.com/wp-content/uploads/2016/02/Management.png");
+    width: 1500px;
+    height: 500px;
+    background-image: no-repeat;
+}

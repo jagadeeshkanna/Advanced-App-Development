@@ -1,0 +1,29 @@
+.profile-h1{
+    text-align: center;
+}
+.card-image-9{
+    padding-top: 50px;
+    height: 200px;
+    width: 200px;
+   border-radius:50px;
+}
+.w-1-pro{
+    font-size: larger;
+}
+.para1-pro{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    
+}
+.para-div-1{
+    height: 30px;
+    background-color: rgb(126, 255, 212);
+    margin-left: 100px;
+}
+.try-pro-1{
+    width: 500px;
+    float: left;
+   margin-left: 90px;
+
+}

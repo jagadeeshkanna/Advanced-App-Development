@@ -1,0 +1,73 @@
+/* FeedbackForm.css */
+.feedback-container {
+    width: 50%;
+    margin: auto;
+  }
+  
+  .feedback-form {
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+  }
+  
+  .feedback-form h2 {
+    text-align: center;
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .form-group label {
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  .form-group input,
+  .form-group textarea {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .form-group textarea {
+    resize: vertical;
+  }
+  
+  .submit-btn {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  .submit-btn:hover {
+    background-color: #45a049;
+  }
+  .h2-feed{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    color: black;
+  }  
+  .feedback-form{
+    background-image: url("https://images.blocksurvey.io/cdn-cgi/imagedelivery/G6cPOuGZ4Z_bEV13gBxixw/template-category/event-experience.svg/l");
+    border-radius:40px;
+  
+  }
+
+  
+
+  .feedback-div{
+  
+    height: 900px;
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+  }

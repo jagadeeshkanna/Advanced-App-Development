@@ -1,0 +1,305 @@
+/* 
+.body-login-11{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    font-family: 'Jost', sans-serif;
+   background-color: #747d7e;
+   background-repeat: no-repeat;
+   background-size: cover;
+  }
+  .main1 {
+    width: 350px;
+    height: 500px;
+    overflow: hidden;
+    border-radius: 0px 10px 10px 0px;
+    box-shadow: 5px 20px 50px #000;
+    margin: 0px;
+    padding: 0px;
+  }
+  
+  #chk {
+    display: none;
+  }
+  
+  .signup1,
+  .login1 {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .f-l1{
+    color: #fff;
+    font-size: 2.3em;
+    justify-content: center;
+    display: flex;
+    margin: 60px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: 0.5s ease-in-out;
+  }
+  
+  input {
+    width: 60%;
+    height: 20px;
+    background: #e0dede;
+    justify-content: center;
+    display: flex;
+    margin: 20px auto;
+    padding: 10px;
+    border: none;
+    outline: none;
+    border-radius: 5px;
+  }
+  
+  .but-11,.but-21 {
+    width: 60%;
+    height: 40px;
+    margin: 10px auto;
+    justify-content: center;
+    display: block;
+    color: #020202;
+    background:white;
+    font-size: 1em;
+    font-weight: bold;
+    margin-top: 20px;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+    transition: 0.2s ease-in;
+    cursor: pointer;
+    text-decoration: none;
+  }
+  
+  .but-11:hover,.but-2:hover {
+    background: #334345;
+  }
+  
+  .login1 {
+    height: 460px;
+    background: #856868;
+    border-radius:0px;
+    transform: translateY(-180px);
+    transition: 0.8s ease-in-out;
+  }
+  
+  .login1 label {
+    color:#9fe0e9;
+    transform: scale(0.6);
+  }
+  
+  #chk:checked ~ .login1 {
+    transform: translateY(-500px);
+  }
+  
+  #chk:checked ~ .login1 label {
+    transform: scale(1);
+  }
+  
+  #chk:checked ~ .signup1 label {
+    transform: scale(0.6);
+  }
+  .box-11{
+    height: 500px;
+    width: 550px;
+   background-image:url("C:\AAD\react-app\src\assets\Event-logo.avif");
+   border-radius: 10px 0px 0px 10px;
+  } */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+.sbody {
+  font-family: 'Arial', sans-serif;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: antiquewhite;
+  padding-bottom: 20px;
+}
+
+.registration-container {
+  display: flex;
+  box-shadow: 0 32px 32px 0 rgba(66, 23, 37, 0.37);
+  background-color: #2c2f59;
+  border-radius: 40px;
+  padding-left: 70px;
+}
+
+.img-container {
+  flex: 1;
+  overflow: hidden;
+  padding: 20px;
+  box-shadow: 0 8px 32px 0 rgba(66, 23, 37, 0.37);
+  border-radius: 20px 30px 30px 20px;
+}
+
+.img-container img {
+  width: 100%;
+  height: 100%;
+  border-radius: 5px;
+  object-fit: cover;
+}
+.h2{
+  font-size: small;
+}
+.registration-form-container {
+  flex: 1;
+  padding: 10px;
+  box-shadow: 0px 8px 32px 8px rgba(66, 23, 37, 0.37);
+  background-color: #f9f9f9;
+  width: 200%;
+  max-width: 400px;
+  border-radius: 30px;
+  height: 580px;
+  padding-left: 40px;
+}
+
+.sform {
+  display: flex;
+  flex-direction: column;
+  padding-top: 100px;
+}
+
+.sinput-group {
+  margin-bottom: 7px;
+  margin-top: 10px;
+  padding: 8px;
+  font-size: 16px;
+  border: 1px solid #ccc;
+  border-radius: 5px; 
+  background-color: rgb(212, 213, 231);
+}
+
+input[type="text"],
+input[type="email"],
+input[type="number"],
+input[type="password"] {
+  width: 100%;
+  padding: 6px;
+  margin: 5px 0;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+  border-radius: 5px; 
+}
+
+button[type=bsubmit] {
+  background-color: #2c2f59;
+  color: #f9f9f9;
+  cursor: pointer;
+  padding: 12px; 
+ border-radius: 5px;
+}
+
+button[type=bsubmit]:hover {
+  background-color: #b9a794;
+}
+
+.additional-links {
+  color: #0a0909;
+  font-size: 14px;
+}
+.error-message {
+  color: red;
+  margin-left: 10px;
+  font-size: 14px;
+  text-align: center;
+}
+
+.user-type-radio {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 20px;
+}
+
+.user-type-radio label {
+  margin-right: 20px;
+  display: flex;
+  align-items: center;
+}
+
+.user-type-radio input {
+  margin-right: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
